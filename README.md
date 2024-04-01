@@ -96,8 +96,11 @@ for overall student wellness.
 It is these set of international standards followed at Narayana
 e-Techno School that make’s it amongst the Top schools in 
 Chittoor,Palamaner, Andhra Pradesh
+
 </font>
+
 </p>
+
 </body>
 </html>
 ```
@@ -234,6 +237,8 @@ Market, Chittoor.</body>
 
 
 ## OUTPUT
+
+
 ![alt text](map.png)
 
 ![alt text](1.png)
