@@ -32,7 +32,9 @@ map.html
 
 <html>
 <head>
+
 <title>My City</title>
+
 </head>
 <body bgcolor="white">
 <h1 align="center"><font color="CornFlowerBlue">Palamaner</font
@@ -55,6 +57,7 @@ title="Palamaner Tomato Market">
 </center>
 </body>
 </html>
+
 ```
 
 
@@ -137,6 +140,7 @@ Bangalore and 195km chennai (TN).
 </p>
 </body>
 </html>
+
 ```
 
 
@@ -201,6 +205,7 @@ water from the locals polluted the pond. But the farmers use
 groundwater for cultivation of fields around it.
 </body>
 </html>
+
 ```
 
 
@@ -232,6 +237,7 @@ retailers,Onion retailers and much more. Find Address, Contact
 number, Reviews & Ratings,Photos, maps of Palamaner tomato 
 Market, Chittoor.</body>
 </html>
+
 ```
 
 
