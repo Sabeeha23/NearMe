@@ -32,9 +32,7 @@ map.html
 
 <html>
 <head>
-
 <title>My City</title>
-
 </head>
 <body bgcolor="white">
 <h1 align="center"><font color="CornFlowerBlue">Palamaner</font
@@ -99,13 +97,11 @@ for overall student wellness.
 It is these set of international standards followed at Narayana
 e-Techno School that make’s it amongst the Top schools in 
 Chittoor,Palamaner, Andhra Pradesh
-
 </font>
-
 </p>
-
 </body>
 </html>
+
 ```
 
 
@@ -142,6 +138,7 @@ Bangalore and 195km chennai (TN).
 </html>
 
 ```
+
 
 
 ```
