@@ -25,6 +25,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
+
 ```
 map.html
 
@@ -55,8 +57,11 @@ title="Palamaner Tomato Market">
 </html>
 ```
 
+
+
 ```
 school.html
+
 <html>
 <head>
 <title>Narayana e-Techno</title>
@@ -97,6 +102,8 @@ Chittoor,Palamaner, Andhra Pradesh
 </html>
 ```
 
+
+
 ```
 institution.html
 
@@ -127,10 +134,11 @@ Bangalore and 195km chennai (TN).
 </p>
 </body>
 </html>
+```
+
 
 ```
 
-```
 restaurant.html
 
 <html>
@@ -162,6 +170,8 @@ high rating.
 
 ```
 
+
+
 ```
 pond.html
 
@@ -190,6 +200,8 @@ groundwater for cultivation of fields around it.
 </html>
 ```
 
+
+
 ```
 market.html
 
@@ -217,15 +229,21 @@ retailers,Onion retailers and much more. Find Address, Contact
 number, Reviews & Ratings,Photos, maps of Palamaner tomato 
 Market, Chittoor.</body>
 </html>
-
 ```
+
+
 
 ## OUTPUT
 ![alt text](map.png)
+
 ![alt text](1.png)
+
 ![alt text](2.png)
+
 ![alt text](3.png)
+
 ![alt text](4.png)
+
 ![alt text](5.png)
 
 
